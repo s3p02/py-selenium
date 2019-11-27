@@ -7,7 +7,7 @@
 ```pip install selenium```
 
 Using Chrome78 - https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.105/
-
+Tried - xattr /path/to/selenium-project-dir
 ```wget  https://chromedriver.storage.googleapis.com/78.0.3904.105/chromedriver_mac64.zip```
 
 Ensure that current chrome version matches driver being downloaded.
